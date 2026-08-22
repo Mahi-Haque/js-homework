@@ -39,3 +39,34 @@ if (female_age >= 18) {
 } else {
     console.log("She is too young to get married under the law.")
 }
+
+// Calculator using Arithmetic Operators
+
+// Addition
+let numb1 = 1520;
+let numb2 = 1480;
+let x = numb1 + numb2;
+console.log("addition:", x);
+
+// Subtraction 
+let numb3 = 154;
+let numb4 = 125;
+let z = numb3 - numb4;
+console.log("Subtraction:", z);
+
+// Multiplication and Division
+let numb5 = 15;
+let numb6 = 3;
+let mul = numb5 * numb6;
+console.log("Multiplication:",mul);
+let div = numb5 / numb6;
+console.log("Division:", div);
+
+// Modulus and Exponentiation 
+
+let nu1 = 5;
+let nu2 = 3;
+let mod = nu1 % nu2;
+console.log("Modulus:",mod);
+let expo = nu1 ** nu2;
+console.log("Exponentiation:" ,expo);
