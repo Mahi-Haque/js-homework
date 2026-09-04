@@ -57,7 +57,7 @@ const user1 = {
 };
 
 const user2 = {
-    name: "Hehe",
+    name: "hee",
     age: 16
 };
 
